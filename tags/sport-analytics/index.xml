@@ -16,5 +16,15 @@
       <description></description>
     </item>
     
+    <item>
+      <title>second blog post</title>
+      <link></link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Hi,My name is marika, this is my blog
+#this is a test 6*6## [1] 36</description>
+    </item>
+    
   </channel>
 </rss>
